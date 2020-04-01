@@ -1,5 +1,5 @@
 # gamma
-Team slogan 
+gamma
 
 ## Members:
 * Member 1
