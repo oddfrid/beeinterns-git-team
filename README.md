@@ -1,4 +1,4 @@
-# Team name
+# gamma
 gamma
 
 ## Members:
