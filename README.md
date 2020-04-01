@@ -1,5 +1,5 @@
 # Team name
-Team slogan 
+gamma
 
 ## Members:
 * Member 1
