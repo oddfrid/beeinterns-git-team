@@ -1,4 +1,4 @@
-# Team name
+# gamma
 Team slogan 
 
 ## Members:
