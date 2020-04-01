@@ -1,9 +1,9 @@
-# Team name
-Team slogan 
+# gamma
+gamma
 
 ## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+* Krivitskaya Ekaterina Valerievna - Lead
+* Burmistrov Pavel Mikhailovich - Developer 1
+* Baylo Ivan Gennadievich - Developer 2
+* Buoy Duc Long - Developer 3
+* Dmitrieva Svetlana Mikhailovna - Tester
